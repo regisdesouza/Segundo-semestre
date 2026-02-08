@@ -1,0 +1,1 @@
+O comando echo consegue criar um texto em um arquivo
